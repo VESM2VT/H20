@@ -28,7 +28,7 @@
    - Tryggið að táknið fari ekki út fyrir skjáinn.
 
 1. Rökrásir
-   - [Grunnhliðin (youtube, 3mín, ísl)](https://youtu.be/Q_TSHgi_SgE)
+   - [Grunnhliðin (youtube, 3 mín, ísl)](https://youtu.be/Q_TSHgi_SgE)
    - [Fleiri hlið](https://en.wikipedia.org/wiki/Logic_gate)
    - [Integrated Circuits](https://www.instructables.com/lesson/Integrated-Circuits-1/)
    - [Half Adder](https://www.circuitstoday.com/half-adder)

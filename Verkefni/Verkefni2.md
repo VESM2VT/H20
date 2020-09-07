@@ -26,16 +26,17 @@
    - Notaði stýripinnann til að flytja tákn að eigin vali til á LCD skjánum.
    - Táknið þarf að geta flust milli línanna og svo innan sömu línunnar.
    - Tryggið að táknið fari ekki út fyrir skjáinn.
-
+<!--
 1. Rökrásir
    - [Grunnhliðin (youtube, 3 mín, ísl)](https://youtu.be/Q_TSHgi_SgE)
    - [Fleiri hlið](https://en.wikipedia.org/wiki/Logic_gate)
    - [Integrated Circuits](https://www.instructables.com/lesson/Integrated-Circuits-1/)
    - [Half Adder](https://www.circuitstoday.com/half-adder)
    - Settu upp *Half Adder* rás á breadboard ásamt tökkum og ljósum til að sýna virknina. Þú færð hliðin hjá kennaranum.
-
+-->
 1. [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
-   - Setja upp og sýna video
+   - [Integrated Circuits](https://www.instructables.com/lesson/Integrated-Circuits-1/)
+   - Setja upp og sýna video fyrir [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
 
 ## Námsmat og skil
 

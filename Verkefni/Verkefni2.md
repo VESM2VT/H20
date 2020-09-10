@@ -14,6 +14,7 @@
    - Breyttu kóðanum í *Count Up Timer* þannig að hann noti ekki ```for``` lykkjuna.
 
 1. [Stýripinni (e. joystick)](../Kodi/styripinni.ino), sjá efst í skjalinu hvernig á að tengja stýripinnan við Arduino
+   - Aðeins um [Pull Up Resistor (myndband)](https://www.youtube.com/watch?v=wxjerCHCEMg)
    - Hvaða gildi gefur stýripinninn þegar ýtt er lengst til vinstri?
    - Hvaða gildi gefur stýripinninn þegar ekki er ýtt á hann?
 
@@ -36,7 +37,7 @@
 ## Námsmat og skil
 
 Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
-Skilaðu á Innu vefslóð á **Github wiki** vefsíðu sem inniheldur:
+Skilaðu á Innu vefslóð á **Github wiki** vefsíðu (private) sem inniheldur:
 
 - Myndbönd af virkni úr verklegum tilraunum.
   - Passaðu að nafnið þitt og dagsetning komi fram (t.d. á miða) í öllum myndböndum.

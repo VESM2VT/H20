@@ -13,14 +13,15 @@
    - 7-Segment Display samanstendur af 8 LED, hvers vegna þarf bara eitt viðnám (en ekki átta)?
    - Breyttu kóðanum í *Count Up Timer* þannig að hann noti ekki ```for``` lykkjuna.
 
-1. [LCD1602 (þarf að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
-   - Breyttu kóðanum þannig að nafnið þitt birtist á skjánum.
-   - Breyttu kóðanum þannig að nafnið þitt birtist í efri línunni á skjánum, einn stafur í einu. Í neðri línunni á að standa **Tolvubraut**.
-   ![LCD](../Myndir/lcd_verkefni2.gif)
-
 1. [Stýripinni (e. joystick)](../Kodi/styripinni.ino), sjá efst í skjalinu hvernig á að tengja stýripinnan við Arduino
    - Hvaða gildi gefur stýripinninn þegar ýtt er lengst til vinstri?
    - Hvaða gildi gefur stýripinninn þegar ekki er ýtt á hann?
+
+1. [LCD1602 (gæti þurft að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
+   - 
+   - Breyttu kóðanum þannig að nafnið þitt birtist í efri línunni á skjánum, einn stafur í einu (skrifar nafnið og endurtekur sig svo). Í neðri línunni á að standa **Tolvubraut**.
+   
+   ![LCD](../Myndir/lcd_verkefni2.gif)
 
 1. Stýripinni og LCD
    - Notaði stýripinnann til að flytja tákn að eigin vali til á LCD skjánum.

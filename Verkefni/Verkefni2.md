@@ -26,7 +26,7 @@
    ![LCD](../Myndir/lcd_verkefni2.gif)
 
 1. Stýripinni og LCD
-   - Notaði stýripinnann til að flytja tákn að eigin vali til á LCD skjánum.
+   - Notið stýripinnann til að flytja tákn að eigin vali til á LCD skjánum.
    - Táknið þarf að geta flust milli línanna og svo innan sömu línunnar.
    - Tryggið að táknið fari ekki út fyrir skjáinn.
    

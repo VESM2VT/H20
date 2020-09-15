@@ -29,10 +29,8 @@
    - Notaði stýripinnann til að flytja tákn að eigin vali til á LCD skjánum.
    - Táknið þarf að geta flust milli línanna og svo innan sömu línunnar.
    - Tryggið að táknið fari ekki út fyrir skjáinn.
-
-1. [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
-   - [Integrated Circuits](https://www.instructables.com/lesson/Integrated-Circuits-1/)
-   - Setja upp og sýna video fyrir [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
+   
+1. [IR fjarstýringu með ir receiver](https://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/)
 
 ## Námsmat og skil
 
@@ -46,7 +44,13 @@ Skilaðu á Innu vefslóð á **Github wiki** vefsíðu (private) sem inniheldur
 
 <!-- 1. [Lesson 13: Stopwatch (4 digit 7-segment display)](https://github.com/GunnarThorunnarson/VESM2VT05BU/tree/master/PowerSupplyLearningKitforUNO/Lesson%2013%20Stopwatch) 
 
-1. [IR fjarstýringu með ir receiver](http://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/) -->
+1. [IR fjarstýringu með ir receiver](http://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/)
+
+1. [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
+   - [Integrated Circuits](https://www.instructables.com/lesson/Integrated-Circuits-1/)
+   - Setja upp og sýna video fyrir [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
+
+-->
 
 <!-- 4. [Stýripinni og ljósadíóður (nota eigin kóða)](https://github.com/GunnarThorunnarson/VESM2VT05BU/blob/master/verkefni/ljosadiodur.md) sjá [kóðalausn](https://create.arduino.cc/editor/gestskoli/f9733890-89c5-4498-a981-88bbdec3165b/preview) -->
 

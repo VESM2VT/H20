@@ -10,6 +10,7 @@
 1. Hannaðu [rafrásina](https://github.com/VESM2VT/H20/wiki/Rafr%C3%A1sir)
 1. Smíðaðu rafrásina og lóðaðu víra, viðnám, buzzer og led perur. 
 1. Tengdu skynjara við rafrásina og mældu út fyrir hönnun á hýsingu í TinkerCad
+    - Hér eru teikningar með málum af [LCD](https://github.com/VESM2VT/H20/blob/master/Myndir/2x16lcd_dimension.jpg) og [Sonic sensor](https://github.com/VESM2VT/H20/blob/master/Myndir/HC-SR04-Dimensions.jpg)
 1. kannaðu grunnvirkni á rafrásinni sem þú smíðaðir með skynjurunum
 1. Hannaðu hýsingu í Tinkercad (mundu Arduino Uno og batterí þarf að komast fyrir líka)
 1. Haltu áfram í kóðanum til að fá alla vikni (á meðan beðið er eftir 3D prentun)

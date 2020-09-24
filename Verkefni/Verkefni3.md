@@ -62,7 +62,7 @@ Núna þegar að þriðja bylgja COVID-19 er í fullum gangi væri gott að eiga
       
 ## Skil
 
-Skilaðu hlekk á github geymslu sem er e. private í Innu.
+Skilaðu hlekk á github geymslu sem er e. private í Innu.<br>
 Í Github geymslu á að vera eftirfarandi:
 
 - Allur kóði

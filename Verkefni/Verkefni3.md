@@ -12,7 +12,7 @@ Núna þegar að þriðja bylgja COVID-19 er í fullum gangi væri gott að eiga
 
 ## Kröfulýsing
 
-- Tækið skal vera í glæsilegum 3d prentaðri hýsingu sem annaðhvort getur staðið á borði eða notandi getur haft á sér (e. wearables) td. í belti, á tösku eða hengt á sig. 
+- Tækið skal vera í glæsilegri 3d prentaðri hýsingu sem annaðhvort getur staðið á borði eða notandi getur haft á sér (e. wearables) td. í belti, á tösku eða hengt á sig. 
 - Tækið skal geta gengið fyrir rafhlöðu.
 - Tækið getur mælt fjarlægðir.
 - Ef nálægðartakmörkun er brotin gefur tækið frá sér hljóðmerki ([buzzer](https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45)) og kveikir á viðvörunarljósi.

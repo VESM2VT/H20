@@ -17,7 +17,7 @@ Núna þegar að þriðja bylgja COVID-19 er í fullum gangi væri gott að eiga
 - Tækið getur mælt fjarlægðir.
 - Ef nálægðartakmörkun er brotin gefur tækið frá sér hljóðmerki ([buzzer](https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45)) og kveikir á viðvörunarljósi.
 - Tækið hefur skjá sem sýnir mælda fjarlægð.
-- Með fjarstýringu eða [talnaborði (e. keypad) ](https://www.circuitbasics.com/how-to-set-up-a-keypad-on-an-arduino/ ) er hægt að slá inn lykilorð til að slökkva á viðvörun.
+- Með [fjarstýringu](https://github.com/VESM2VT/H20/blob/master/Verkefni/ir_remote.md) eða [talnaborði (e. keypad) ](https://www.circuitbasics.com/how-to-set-up-a-keypad-on-an-arduino/ ) er hægt að slá inn lykilorð til að slökkva á viðvörun.
 - Hægt er að breyta nálægðartakmörkun með fjarstýringu eða talnaborði. 
 
 Íhugaðu hvernig þú ætlar að leysa verkefnið. [Hér](https://github.com/VESM2VT/H20/blob/master/Verkefni/V3_skrefin.md) er dæmi um hvernig verkferlið gæti verið.

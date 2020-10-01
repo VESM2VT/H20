@@ -1,4 +1,4 @@
-# IR Remote - Í vinnslu
+# IR Remote með útfærslu á lykilorði
 
 ## Gráa fjarstýringin
 

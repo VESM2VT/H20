@@ -1,4 +1,7 @@
-# IR Remote með útfærslu á lykilorði
+# IR Remote
+
+* [Gráa fjarstýringin](#gráa-fjarstýringin)
+* [Tinkercad fjarstýringin](#tinkercad-fjarstýringin)
 
 ## Gráa fjarstýringin
 
@@ -146,3 +149,37 @@ void loop() {
   }
 }
 ```
+
+## Tinkercad fjarstýringin
+
+Kóðar fyrir fjarstýringuna í Tinkercad eru ekki þeir sömu og fyrir gráu fjarstýringuna.
+
+Hér er ```kodar``` fylkið fyrir Tinkercad fjarstýringuna, allur annar kóði er eins og fyrir gráu fjarstýringuna:
+
+```c++
+const unsigned long kodar[] = { 0xFD00FF,
+                                0xFD807F,
+                                0xFD40BF,
+                                0xFD20DF,
+                                0xFDA05F,
+                                0xFD609F,
+                                0xFD10EF,
+                                0xFD906F,
+                                0xFD50AF,
+                                0xFDB04F,
+                                0xFD708F,
+                                0xFD30CF,
+                                0xFD08F7,
+                                0xFD8877,
+                                0xFD48B7,
+                                0xFD28D7,
+                                0xFDA857,
+                                0xFD6897,
+                                0xFD18E7,
+                                0xFD9867,
+                                0xFD58A7 };
+```
+
+Takkarnir verða þá í sömu röð og á gráu fjarstýringunni:
+
+![Tinkercad ir](../Myndir/tinkercad_ir.png)

@@ -33,10 +33,10 @@ Núna þegar að þriðja bylgja COVID-19 er í fullum gangi væri gott að eiga
    -  0% Vantar. 
  
 1. 20% Þrívíddarhönnun.<br>
-     - 20% Hýsing fyrir teikniborð er mjög vel útfært.
-     - 16% Hýsing fyrir teikniborð er vel útfært, en getur verið betri mtt. pláss og lögun.
-     - 12% Hýsing fyrir teikniborðið er nothæft, sést ekki í op eða víra.
-     -  8% Hýsing fyrir teikniborðið er nothæft en það sést í víra eða op sem þurfa ekki að vera.
+     - 20% Hýsing er mjög vel útfærð.
+     - 16% Hýsing er vel útfærð, en getur verið betri mtt. pláss og lögun.
+     - 12% Hýsing er nothæf, sést ekki í op eða víra.
+     -  8% Hýsing er nothæf en það sést í víra eða op sem þurfa ekki að vera.
      -  4% Stórlega ábótavant.
      -  0% Vantar. 
 
@@ -63,14 +63,14 @@ Núna þegar að þriðja bylgja COVID-19 er í fullum gangi væri gott að eiga
       
 ## Skil
 
-Skilaðu hlekk á github geymslu sem er e. private í Innu.<br>
-Í Github geymslu á að vera eftirfarandi:
+Skilaðu hlekk á lokaða (e. private) github geymslu á Innu.<br>
+Í Github geymslunni á að vera eftirfarandi:
 
 - Allur kóði
 - 3d teikningar og model (.stl skráin)
 - Rökrásarhönnunarteikning
 - Ljósmynd af lóðun (báðar hliðar)
-- Tveimur myndböndum af virkni (tengil á youtube) 
+- Tvö myndbönd af virkni (tengill á youtube) 
     - frumgerð, virkni með tengingum íhluta á brauðbretti (ekki lóðun, veroborð og casing)
     - lokaafurð, virkni með veróborðasmíð og hýsingu.
 - Skýrsla (í readme.md) þar sem gerð er grein fyrir helstu hönnunarákvörðunum, erfiðleikum og öðru sem þér dettur í hug.

@@ -6,7 +6,7 @@
     - Fyrsta skrefið væri þá t.d að uppfylla 20% í kóðun og virkni Ultrasonic og LCD
     - Gott er að taka mynband af hverju skrefi sem klárast. <br>
     - Staldraðu við þegar þú ert kominn með alla skynjarana og færðu í næsta skref.
-    - [Linkur á tinkercad teikningu rásar](https://www.tinkercad.com/things/1wePg2VgxMI-irremote/editel?sharecode=yxJ7P5mfcowr_0TD7x3jgCCLc97QTOpBWO3SUID9y8o)
+    - [Linkur á tinkercad teikningu rásar](https://www.tinkercad.com/things/1wePg2VgxMI)
 1. Kláraðu að tengja alla skynjara og víra við brauðbretti til að sjá hvað þarf til að geta hannað rafrásina.
 1. Hannaðu [rafrásina](https://github.com/VESM2VT/H20/wiki/Rafr%C3%A1sir)
 1. Smíðaðu rafrásina og lóðaðu víra, viðnám, buzzer og led perur. 

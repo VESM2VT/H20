@@ -143,6 +143,7 @@ void loop() {
   if (lesaLykilord.endsWith(lykilord + 'a')) {
     Serial.println("------Rett Lykilord------");
     lesaLykilord = "";
+    // Hér kæmi kóðinn sem á að keyra ef rétt lykilorð er slegið inn.
   }
   if (lesaLykilord.length() > 20) { // til að minnið fyllist ekki af strengnum
     lesaLykilord = lesaLykilord.substring(10);

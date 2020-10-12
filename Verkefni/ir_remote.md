@@ -140,7 +140,7 @@ void loop() {
     }
     irrecv.resume(); // Receive the next value
   }
-  if (lesaLykilord.endsWith(lykilord + 'a')) {
+  if (lesaLykilord.endsWith(lykilord + stadfestaTakn)) {
     Serial.println("------Rett Lykilord------");
     lesaLykilord = "";
     // Hér kæmi kóðinn sem á að keyra ef rétt lykilorð er slegið inn.

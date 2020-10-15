@@ -68,7 +68,7 @@ Skilaðu hlekk á lokaða (e. private) github geymslu á Innu.<br>
 
 - Allur kóði
 - 3d teikningar og model (.stl skráin)
-- Rökrásarhönnunarteikning (t.d. með [CircuitDiagram](https://www.circuit-diagram.org/))
+- Rökrásarhönnunarteikning.
 - Ljósmynd af lóðun (báðar hliðar)
 - Tvö myndbönd af virkni (tengill á youtube) 
     - frumgerð, virkni með tengingum íhluta á brauðbretti (ekki lóðun, veroborð og casing)

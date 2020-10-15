@@ -8,7 +8,6 @@
     - Staldraðu við þegar þú ert kominn með alla skynjarana og færðu í næsta skref.
     - [Linkur á tinkercad teikningu rásar](https://www.tinkercad.com/things/1wePg2VgxMI)
 1. Kláraðu að tengja alla skynjara og víra við brauðbretti til að sjá hvað þarf til að geta hannað rafrásina.
-1. Hannaðu [rafrásina](https://github.com/VESM2VT/H20/wiki/Rafr%C3%A1sir)
 1. Smíðaðu rafrásina og lóðaðu víra, viðnám, buzzer og led perur. 
 1. Tengdu skynjara við rafrásina og mældu út fyrir hönnun á hýsingu í TinkerCad
     - Hér eru teikningar með málum af [LCD](https://github.com/VESM2VT/H20/blob/master/Myndir/2x16lcd_dimension.jpg) og [Sonic sensor](https://github.com/VESM2VT/H20/blob/master/Myndir/HC-SR04-Dimensions.jpg)

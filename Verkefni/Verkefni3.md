@@ -6,9 +6,9 @@ Núna þegar að þriðja bylgja COVID-19 er í fullum gangi væri gott að eiga
 
 ## Verkþættir
 
-- 3d hönnun á hýsingu (e. casing)
-- hönnun rafrásar, lóðun íhluta.
-- Forritun
+- 3d hönnun á hýsingu (e. casing).
+- Veróborðasmíð og samsettning.
+- Forritun.
 
 ## Kröfulýsing
 
@@ -68,7 +68,6 @@ Skilaðu hlekk á lokaða (e. private) github geymslu á Innu.<br>
 
 - Allur kóði
 - 3d teikningar og model (.stl skráin)
-- Rökrásarhönnunarteikning.
 - Ljósmynd af lóðun (báðar hliðar)
 - Tvö myndbönd af virkni (tengill á youtube) 
     - frumgerð, virkni með tengingum íhluta á brauðbretti (ekki lóðun, veroborð og casing)

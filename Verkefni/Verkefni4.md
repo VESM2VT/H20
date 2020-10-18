@@ -6,12 +6,6 @@ Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem i
 - Tengla á myndbönd af verklegum verkefnum.
   - Mundu að láta nafnið þitt og dagsetningu koma fram í myndbandinu.
 - Tengla á kóðaskrár sem þú notar í verklegum verkefnum.
-- 
-<!--
-- [Motors and Motion](https://www.instructables.com/lesson/Motors-and-Motion/)
-- [Mismunandi tegundir mótora](https://learn.adafruit.com/adafruit-motor-selection-guide/types-of-motors)
-- [Tvö myndbönd um mótora (4 og 5 mín.)](https://www.youtube.com/playlist?list=PLRIGIzu0Z7KlYY6FyZ0_Y0ZmVFyAvtDO0)
--->
 
 ## 4.1. Rafþéttar (e. capasitors) (1%)
 
@@ -77,11 +71,3 @@ Svaraðu eftirfarandi spurningum:
 
  1. Hvernig er skrefamótor ólíkur hefðbundnum DC mótor?
  2. Í myndbandinu er talað um að skrefamótorar séu t.d. notaðir í 3d prentara, nefndu tvö önnur dæmi þar sem skrefamótorar nýtast betur en aðrar gerðir mótora.
-
-
-<!-- 
-Fer eftir hvað nemendur eiga:
- 1. [Control 28BYJ-48 Stepper Motor with ULN2003 Driver & Arduino](https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/)
- 2. [Control Stepper Motor with L298N Motor Driver & Arduino](https://lastminuteengineers.com/stepper-motor-l298n-arduino-tutorial/)
- 3. [Control Stepper Motor with L293D Motor Driver IC & Arduino](https://lastminuteengineers.com/stepper-motor-l293d-arduino-tutorial/)
--->

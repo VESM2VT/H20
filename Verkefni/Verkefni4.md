@@ -16,7 +16,7 @@ Búðu til í **private** Github Repository vefsíðu (Verkefni 4) í Wiki sem i
   
 ## 4.2. Servo Motors (2%)
 
-1. Lestu eftirfarandi og fylgdu tutorialnum í [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/). settu hann upp á Breadboard:
+1. Lestu eftirfarandi og fylgdu tutorialnum í [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/),  settu upp á Breadboard:
 2. Svaraðu eftirfarandi spurningum:
     1. Afhverju er heppilegt að nota rafþéttir með servo motor?
     2. Hvað snýst servo motor margar gráður þegar hár púls (e. pulse) varir í 1.5 millisekúndur?

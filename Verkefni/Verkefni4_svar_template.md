@@ -10,8 +10,7 @@ Hver er munurinn á rafhlöðu og rafþétti?
 
 ## 4.2 Servo Motors (2%)
 
-[Hlekkur á myndband - Sweep]()
-
+- [Hlekkur á myndband - Sweep]()
 - [Hlekkur á kóða - Sweep]()
 - [Hlekkur á myndband - Potentiometer]()
 - [Hlekkur á kóða - Potentiometer]()

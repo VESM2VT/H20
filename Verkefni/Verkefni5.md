@@ -43,7 +43,7 @@ Settu upp bæði verklegu sýnidæmin sem koma fyrir í [I2C Communications](htt
 ---
 
 #### 5.5 MPU-6050 (4%)
-1. Fylgdu eftir fyrri tilrauninni í [Build a Digital Level with MPU-6050 and Arduino](https://dronebotworkshop.com/mpu-6050-level/)  (að 19:36 mín í myndbandi) og settu upp verklega til að prófa MPU-6050.
+1. Fylgdu eftir fyrri tilrauninni (að 19:36 mín í myndbandi) í [Build a Digital Level with MPU-6050 and Arduino](https://dronebotworkshop.com/mpu-6050-level/)  og settu upp verklega til að prófa MPU-6050.
 
 2. Fylgdu eftir tutorial [MPU6050 and 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/) og settu upp verklega.
 

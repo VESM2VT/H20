@@ -37,7 +37,7 @@ Lestu [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protoc
 ---
 
 #### 5.4 I2C með tvo Arduino (3%)
-Skoðaðu [I2C Communications](https://dronebotworkshop.com/i2c-arduino-arduino/) og settu upp síðara sýnidæmið **Remote Demo** (með breytiviðnámi og led) verklega.<br>
+Skoðaðu [I2C Communications](https://dronebotworkshop.com/i2c-arduino-arduino/) og settu upp síðari tilraunina **Remote Demo** (með breytiviðnámi og led) verklega.<br>
 **Ath** það þarf að bæta við `int howMany` í kóða: `void receiveEvent(int howMany)`
         
 ---

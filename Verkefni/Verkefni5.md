@@ -31,7 +31,7 @@ Lestu [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-c
 Lestu [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/) og svaraðu eftirfarandi spurningum:
 
    1. I2C notar message og address, hvað er það og hvernig virkar það?
-   1. Hvað er hægt að senda mikið af gögnum (bits) í einu?
+   1. I2C getur haft marga master, hvenær er það sniðugt?
    1. Hver er helsti munurinn á SPI og I2C? 
 
 ---

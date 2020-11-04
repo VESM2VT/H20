@@ -22,7 +22,7 @@ Lestu [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/b
 Lestu [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-communication/) og svaraðu eftirfarandi spurningum:
  
    1. UART notast við baud rate útskýrðu nánar tilgang þess.
-   1. Útskýrðu innihald í packets í UART.
+   1. Útskýrðu innihald í data packet í UART.
    1. Hvernig er UART frábrugðið SPI? 
  
 ---

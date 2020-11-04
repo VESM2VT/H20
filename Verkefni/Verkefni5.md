@@ -1,4 +1,4 @@
-### Verkefni 5 - Samskipti (10%)  _drög_
+### Verkefni 5 - Samskipti (10%) _drög_
 
 
 Búðu til í **private** Github Repository vefsíðu (Verkefni 5) í Wiki sem inniheldur eftirfarandi:
@@ -22,7 +22,7 @@ Lestu [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/b
 Lestu [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-communication/) og svaraðu eftirfarandi spurningum:
  
    1. UART notast við baud rate útskýrðu nánar tilgang þess.
-   1. Útskýrðu innihald í data packet í UART.
+   1. Hvað er packet (START BIT, DATA FRAME, PARITY, STOP BITS) í UART?
    1. Hvernig er UART frábrugðið SPI? 
  
 ---
@@ -30,20 +30,20 @@ Lestu [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-c
 #### 5.3 Inter-Integrated Circuit (I2C) (1%)
 Lestu [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/) og svaraðu eftirfarandi spurningum:
 
-   1. I2C notast við message og address, hvað er það og hvernig virkar það?
-   1. I2C getur haft ótakmarkað af masters, en mest 1008 slaves, afhverju er það?
+   1. I2C notar message og address, hvað er það og hvernig virkar það?
+   1. Hvað er hægt að senda mikið af gögnum (bits) í einu?
    1. Hver er helsti munurinn á SPI og I2C? 
 
 ---
 
 #### 5.4 I2C með tvo Arduino (3%)
-Settu upp bæði verklegu sýnidæmin sem koma fyrir í [I2C Communications](https://dronebotworkshop.com/i2c-arduino-arduino/).<br> 
+Skoðaðu [I2C Communications](https://dronebotworkshop.com/i2c-arduino-arduino/) og settu upp síðara sýnidæmið **Remote Demo** (með breytiviðnámi og led) verklega.<br>
 **Ath** það þarf að bæta við `int howMany` í kóða: `void receiveEvent(int howMany)`
         
 ---
 
 #### 5.5 MPU-6050 (4%)
-1. Fylgdu eftir fyrri tilrauninni (að 19:36 mín í myndbandi) í [Build a Digital Level with MPU-6050 and Arduino](https://dronebotworkshop.com/mpu-6050-level/)  og settu upp verklega til að prófa MPU-6050.
+1. Skoðaðu eftirfarandi: [Build a Digital Level with MPU-6050 and Arduino](https://dronebotworkshop.com/mpu-6050-level/) og fylgdu eftir fyrri tilrauninni (að 19:36 mín í myndbandi) og settu upp verklega til að prófa MPU-6050.
 
 2. Fylgdu eftir tutorial [MPU6050 and 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/) og settu upp verklega.
 

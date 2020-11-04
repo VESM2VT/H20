@@ -31,7 +31,7 @@ Lestu [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-c
 Lestu [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/) og svaraðu eftirfarandi spurningum:
 
    1. I2C notast við message og address, hvað er það og hvernig virkar það?
-   1. I2C getur haft ótakmarkað af masters, en mest 1080 slaves, afhverju er það?
+   1. I2C getur haft ótakmarkað af masters, en mest 1008 slaves, afhverju er það?
    1. Hver er helsti munurinn á SPI og I2C? 
 
 ---

@@ -30,8 +30,8 @@ Lestu [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-c
 #### 5.3 Inter-Integrated Circuit (I2C) (1%)
 Lestu [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/) og svaraðu eftirfarandi spurningum:
 
-   1. I2C notar message og address, hvað er það og hvernig virkar það?
-   1. I2C getur haft marga master, hvenær er það sniðugt?
+   1. I2C notast við message og address, hvað er það og hvernig virkar það?
+   1. I2C getur haft ótakmarkað af masters, en mest 1080 slaves, afhverju er það?
    1. Hver er helsti munurinn á SPI og I2C? 
 
 ---

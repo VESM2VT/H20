@@ -9,7 +9,7 @@ Búðu til í **private** Github Repository vefsíðu (Verkefni 5) í Wiki sem i
 
 ---
 
-#### 5.1 SPI (1%)
+#### 5.1 SPI (1.5%)
 Lestu [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol) og svaraðu eftirfarandi spurningum:
    
    1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
@@ -18,7 +18,7 @@ Lestu [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/b
    
 ---
 
-#### 5.2 UART (1%)
+#### 5.2 UART (1.5%)
 Lestu [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-communication/) og svaraðu eftirfarandi spurningum:
  
    1. UART notast við baud rate útskýrðu nánar tilgang þess.
@@ -27,7 +27,7 @@ Lestu [BASICS OF UART COMMUNICATION](https://www.circuitbasics.com/basics-uart-c
  
 ---
 
-#### 5.3 Inter-Integrated Circuit (I2C) (1%)
+#### 5.3 Inter-Integrated Circuit (I2C) (1.5%)
 Lestu [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/) og svaraðu eftirfarandi spurningum:
 
    1. I2C notar message og address, hvað er það og hvernig virkar það?
@@ -38,11 +38,20 @@ Lestu [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protoc
 
 #### 5.4 I2C með tvo Arduino (3%)
 Skoðaðu [I2C Communications](https://dronebotworkshop.com/i2c-arduino-arduino/) og settu upp síðari tilraunina **Remote Demo** (með breytiviðnámi og led) verklega (eða með TinkerCad).
-        
+
+Útskýrðu hvað eftirfarandi kóði gerir:
+
+   1. `Wire.beginTransmission(ADDRESS);` Hvaða ADDRESS eru ekki í boði?
+   1. `Wire.onReceive(receiveEvent);` og `Wire.onRequest(requestEvent);` 
+   1. `Wire.requestFrom(SLAVE_ADDR, ANSWERSIZE);`
+
 ---
 
-#### 5.5 MPU-6050 (4%)
-Skoðaðu eftirfarandi: [Build a Digital Level with MPU-6050 and Arduino](https://dronebotworkshop.com/mpu-6050-level/) og fylgdu eftir fyrri tilrauninni (að 19:36 mín í myndbandi) til að prófa MPU-6050. Fylgdu svo eftir tutorial [MPU6050 and 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/) og settu upp verklega.
+#### 5.5 MPU-6050 (2.5%)
+Skoðaðu eftirfarandi: [Build a Digital Level with MPU-6050 and Arduino](https://dronebotworkshop.com/mpu-6050-level/). <br>
+Útskýrðu alla pinna (e. pinouts) á MPU-6050. Fylgdu eftir fyrri tilrauninni (að 19:36 mín í myndbandi) til að prófa MPU-6050. 
+<br>
+Fylgdu svo eftir tutorial [MPU6050 and 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/) og settu upp verklega.
 
 ---
 

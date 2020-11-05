@@ -1,4 +1,4 @@
-### Verkefni 5 - Samskipti (10%) _drög_
+### Verkefni 5 - Samskipti (10%)
 
 
 Búðu til í **private** Github Repository vefsíðu (Verkefni 5) í Wiki sem inniheldur eftirfarandi:

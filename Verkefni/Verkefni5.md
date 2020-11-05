@@ -49,7 +49,7 @@ Skoðaðu [I2C Communications](https://dronebotworkshop.com/i2c-arduino-arduino/
 
 #### 5.5 MPU-6050 (2.5%)
 Skoðaðu eftirfarandi: [Build a Digital Level with MPU-6050 and Arduino](https://dronebotworkshop.com/mpu-6050-level/). <br>
-Útskýrðu alla pinna (e. pinouts) á MPU-6050 og fylgdu eftir fyrri tilrauninni (að 19:36 mín í myndbandi) til að prófa MPU-6050. 
+Útskýrðu alla pinna (e. pinouts) og hlutverk þeirra á MPU-6050. Fylgdu eftir fyrri tilrauninni (að 19:36 mín í myndbandi) til að prófa MPU-6050. 
 <br>
 Fylgdu svo eftir tutorial [MPU6050 and 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/) og settu upp verklega.
 

@@ -38,13 +38,15 @@ Hér má sjá dæmi um útfærslu:
 - Viðnám, þéttar, vírar, LED og annað eftir þörfum
 
 ---
-
+<!--
 #### Námsmat
 
 1. 2D hönnun.  (10%)
 1. Kóðun og skynjarar. (15%)
 1. Veróborðsmíði og lóðun. (5%)
 1. Samsettning. (5%)
+
+-->
 
 ---
 

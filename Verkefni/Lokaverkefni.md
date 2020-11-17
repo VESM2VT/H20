@@ -48,7 +48,7 @@ Hér má sjá dæmi um útfærslu:
 
 -->
 
----
+<!--
 
 #### Verkáætlun til að fá hugmynd um umfang og tíma
 
@@ -68,4 +68,5 @@ Vika 3:
 - Veróborðsmíði, lóðun og samsettning. 
 
 ---
+-->
 

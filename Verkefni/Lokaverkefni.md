@@ -1,4 +1,4 @@
-### Lokaverkefni 35% _drög_
+### Lokaverkefni 35%
 
 - Tími: 3 vikur
 - Einstaklingsverkefni
@@ -38,17 +38,29 @@ Hér má sjá dæmi um útfærslu:
 - Viðnám, þéttar, vírar, LED og annað eftir þörfum
 
 ---
-<!--
+
 #### Námsmat
 
 1. 2D hönnun.  (10%)
-1. Kóðun og skynjarar. (15%)
-1. Veróborðsmíði og lóðun. (5%)
-1. Samsettning. (5%)
+  - Hönnun er vel útfærð, hvergi eru ónauðsynleg op eða göt. (10%)
+  - Hönnun er að mestu í lagi en einhverjir augljósir gallar. (6%)
+  - Hönnuner stórlega gölluð eða ekki búið að skera hana út. (2%)
+  - Hönnun vantar. (0%)
+2. Kóðun og virkni. (15%)
+  - Kóði og rafeindabúnaður virkar í samræmi við verkefnalýsingu. Kóðinn er snyrtilega settur upp og breytunöfn eru lýsandi. (15%)
+  - Mikilvægan hlut vantar eða hann virkar ekki en annað í lagi. (10%)
+  - Tvo eða fleiri mikilvæga hluti vantar eða þeir virka ekki. (5%)
+  - Kóði eða virkni ekki til staðar. (0%)
+3. Veróborðsmíði og lóðun. (5%)
+  - Allar lóðningar góðar (engar kaldar lóðningar). Skipulag og notkun veróborða skynsamleg. (5%)
+  - Einhverjar kaldar lóðningar eða lélegt skipulag á veróborði. (2,5%)
+  - Lóðningar lélegar eða vantar. (0%)
+4. Samsettning. (5%)
+  - Kassi og festingar vel settar saman. Hvergi sést í límklessu. Ekki sést í víra að nauðsynjalausu. Notaðir eru herpihólkar þar sem það á við. (5%)
+  - Sametning ekki gallalaus en að mestu í lagi. (2,5%)
+  - Ekki búið að setja saman (0%)
 
--->
-
-<!--
+---
 
 #### Verkáætlun til að fá hugmynd um umfang og tíma
 
@@ -68,5 +80,4 @@ Vika 3:
 - Veróborðsmíði, lóðun og samsettning. 
 
 ---
--->
 

@@ -21,7 +21,7 @@ Haltu utan um verkefnið í lokaðri geymslu (e. private repo) á Github. Þar �
 
 Í þessu verkefnið átt þú að hanna og smíða jólaskreytingu. Skreytingin á að samanstanda af kassa sem felur arduino og skrefamótor. Skrefamótorinn snýr svo plötu en á henni stendur jólasveinn og veifar, servo motor hjálpar jólasveininum að veifa. Skreytingin spilar að sjálfsögðu jólalög og fátt segir jól meira en blikkandi grænar og rauðar led perur. Það þarf að vera hægt að kveikja og slökkva á skreytingunni með [snertitakka](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ).
 
-Kassann, plötuna og festingu fyrir servo motor á að hanna í Inkscape og láta skera út í Framtíðarstofunni.
+Kassann, plötuna og festingu fyrir servo motor á að hanna í **Inkscape** og láta skera út í Framtíðarstofunni.
 
 Hér má sjá dæmi um útfærslu:
 

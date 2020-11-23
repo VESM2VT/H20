@@ -55,7 +55,7 @@ Hér má sjá dæmi um útfærslu:
   - Allar lóðningar góðar (engar kaldar lóðningar). Skipulag og notkun veróborða skynsamleg. (5%)
   - Einhverjar kaldar lóðningar eða lélegt skipulag á veróborði. (2,5%)
   - Lóðningar lélegar eða vantar. (0%)
-4. Samsettning. (5%)
+4. Samsetning. (5%)
   - Kassi og festingar vel settar saman. Hvergi sést í límklessu. Ekki sést í víra að nauðsynjalausu. Notaðir eru herpihólkar þar sem það á við. (5%)
   - Sametning ekki gallalaus en að mestu í lagi. (2,5%)
   - Ekki búið að setja saman (0%)
@@ -77,7 +77,7 @@ Vika 2:
 Vika 3:
 
 - Kóðun og skynjarar.
-- Veróborðsmíði, lóðun og samsettning. 
+- Veróborðsmíði, lóðun og samsetning. 
 
 ---
 

@@ -53,6 +53,13 @@ Skoðaðu eftirfarandi: [Build a Digital Level with MPU-6050 and Arduino](https:
 <br>
 Fylgdu svo eftir tutorial [MPU6050 and 3D Simulation With Processing](https://www.instructables.com/id/Arduino-MPU6050-GY521-6-Axis-Accelerometer-Gyro-3D/) og settu upp verklega.
 
+<!--
+
+Toxiclib: https://www.instructables.com/Arduino-Processing-SIX-AXIS-GYRO-ACCELEROMETER/
+MAC OS (eftir að testa): https://medium.com/@aruny/getting-started-with-mpu6050-6-axis-accelerometer-and-gryo-with-arduino-on-mac-os-53332a38ebf9
+
+-->
+
 ---
 
 #### Námsmat og skil

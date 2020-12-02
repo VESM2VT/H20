@@ -44,7 +44,7 @@ Hér má sjá dæmi um útfærslu:
 1. 2D hönnun.  (10%)
   - Hönnun er vel útfærð, hvergi eru ónauðsynleg op eða göt. (10%)
   - Hönnun er að mestu í lagi en einhverjir augljósir gallar. (6%)
-  - Hönnuner stórlega gölluð eða ekki búið að skera hana út. (2%)
+  - Hönnun er stórlega gölluð eða ekki búið að skera hana út. (2%)
   - Hönnun vantar. (0%)
 2. Kóðun og virkni. (15%)
   - Kóði og rafeindabúnaður virkar í samræmi við verkefnalýsingu. Kóðinn er snyrtilega settur upp og breytunöfn eru lýsandi. (15%)
